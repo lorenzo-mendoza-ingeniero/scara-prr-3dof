@@ -2,7 +2,7 @@
 
 **Context:** Course / personal project — Universidad Nacional de Ingeniería  
 **Date:** 2026  
-**Tools:** SolidWorks, MATLAB, Python, Proteus, etc.  
+**Tools:** SolidWorks, MATLAB, Arduino IDE  
 **Status:** Completed / documented retrospectively
 
 ## Summary
