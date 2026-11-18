@@ -1,12 +1,12 @@
 # scara-prr-3dof
 
-**Context:** Course / personal project — Universidad Nacional de Ingeniería  
+**Context:** Proyecto de ingeniería para el curso de **"Dinámica de Sistemas Multicuerpo (MT516)"** sobre el desarrollo de un manipulador de 3 dof.
 **Date:** 2026  
 **Tools:** SolidWorks, MATLAB, Arduino IDE  
-**Status:** Completed / documented retrospectively
+**Status:** Completed
 
 ## Summary
-1–3 sentences: what the project is and why it matters.
+Manipulador SCARA de 3 dof para el paletizado de jabas de frutas orientado a satisfacer la demanda de infraestructura tecnológica en las Micro y Pequeñas empresas (MyPes) del sector agroindustrial.
 
 ## Objective
 - ...
