@@ -12,9 +12,9 @@ Manipulador SCARA de 3 dof para el paletizado de jabas de frutas orientado a sat
 - Diseño, construcción, programación y validación de un prototipo de brazo robótico para la agroindustria que satisfaga las necesidades de infraestructura tecnológica en las MyPes.
 
 ## What I did
-- Programmed ...
-- Simulated ...
-- Validated ...
+- Programe el código en MATLAB para obtener los parámetros de la cinemática directa e inversa del manipulador PRR SCARA 3dof y el código para la comunicación entre los motores NEMA y el ArduinoUNO.
+- Simule las trayectorias en MATLAB usando la interfaz de desarrollo de aplicaciones nativa de MATLAB. 
+- Valide las ecuaciones de cinemática directa e inversa, los parámetros empíricos de los motores y la relación entre las revoluciones y el desplazamiento prismático y/o cilíndrico.
 
 ## Results / Evidence
 - Key result or metric: Descripción de las trayectorias cinématicas del manipulador SCARA (PRR) en un ambiente de trabajo controlado.
@@ -28,10 +28,7 @@ Aquí se detalla la estructura y los archivos principales del proyecto del manip
 *   **[Control de Motores (Arduino)](src/arduino_control.ino)**: Código encargado de recibir las consignas y generar la respuesta de avance/posicionamiento para los motores paso a paso.
 
 ### 📊 Simulación y Modelamiento (`simulation/`)
-*   **[Cinemática Directa (MATLAB)](simulation/cinematica_directa_scara.m)**
-*   **[Cinemática Inversa (MATLAB)](simulation/cinematica_inversa_scara.m)**
-*   **[Frames (MATLAB)](simulation/plot_frame.m)**
-*   **[SCARA LINKS (MATLAB)](simulation/plot_scara_links.m)**
+*   **[Cinemática Directa, Inversa y Simulación (MATLAB)](simulation/)**
 
 ### ⚙️ Diseño CAD (`cad/`)
 *   **[Ensamblaje Completo (SolidWorks)](cad/Ensamblaje_total2.SLDASM)**: Archivo principal del ensamble del manipulador.
