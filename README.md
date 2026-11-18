@@ -2,7 +2,7 @@
 
 **Context:** Proyecto de ingeniería para el curso de **"Dinámica de Sistemas Multicuerpo (MT516)"** sobre el desarrollo de un manipulador de 3 dof.
 **Date:** 2026  
-**Tools:** SolidWorks, MATLAB, Arduino IDE  
+**Tools:** SolidWorks, MATLAB, Arduino 
 **Status:** Completed
 
 ## Summary
